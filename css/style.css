@@ -690,6 +690,7 @@
     margin-top: 20px;
     font-size: 12pt;
     color: white;
+    padding: 10px 0px;
 }
 
 .contact form input:focus-visible{
